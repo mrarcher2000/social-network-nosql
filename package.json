@@ -1,0 +1,26 @@
+{
+  "name": "social-network-nosql",
+  "version": "1.0.0",
+  "description": "API routes for a Social Network Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrarcher2000/social-network-nosql.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "api",
+    "social",
+    "media"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrarcher2000/social-network-nosql/issues"
+  },
+  "homepage": "https://github.com/mrarcher2000/social-network-nosql#readme"
+}
