@@ -44,7 +44,12 @@ The usage is simple for this project. To connect your front-end code, simply mak
  /api/thoughts/:id/reactions/:reactionId  --  DELETE to delete a reaction 
  ```
  
+
+
+
  Below is a link to a video that shows the API routes being called on a local development server in Insomnia Core. 
+
+ https://drive.google.com/file/d/1GorlH9yRMpHRNeoZnEwcaThTT-WmQuh_/view
 
 ## Contributing
 
